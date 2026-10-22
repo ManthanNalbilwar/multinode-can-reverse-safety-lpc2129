@@ -109,7 +109,7 @@ Each node is a **separate Keil project**. Common drivers such as CAN and delay a
 
 <div align="center">
 
-![Block Diagram](docs/images/Block_Diagram.jpeg)
+![Block Diagram](Images/Block_Diagram.jpeg)
 
 </div>
 
@@ -234,7 +234,7 @@ flowchart TD
 
 <div align="center">
 
-![Hardware Setup](docs/images/Project_Firmware.jpeg)
+![Hardware Setup](Images/Project_Firmware.jpeg)
 
 *Three LPC2129 boards connected on one CAN bus. Left: Indicator Node, center: Main Node with the 20×4 LCD, right: Reverse Alert Node with the ultrasonic sensor.*
 
@@ -244,7 +244,7 @@ flowchart TD
 
 <div align="center">
 
-![LCD Results](docs/images/Result.jpeg)
+![LCD Results](Images/Result.jpeg)
 
 </div>
 
